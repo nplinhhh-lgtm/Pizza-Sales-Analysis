@@ -40,4 +40,30 @@ Dự án được xây dựng trên nền tảng hiện đại, có khả năng 
 Chúng tôi tin rằng mọi con số đều ẩn chứa một cơ hội kinh doanh. Giải pháp này hoàn toàn có thể tùy chỉnh để phù hợp với đặc thù riêng và quy mô của từng đối tác kinh doanh.
 
 ---
+## 📊 Phân tích hiệu suất chi tiết
+
+### 1. Xu hướng doanh thu theo thời gian
+Dưới đây là biểu đồ phân tích doanh thu theo tháng và ngày trong tuần, giúp doanh nghiệp nhận diện các chu kỳ kinh doanh cao điểm:
+
+<p align="center">
+  <img src="Doanh thu theo tháng" width="800" title="Doanh thu theo tháng">
+</p>
+
+<p align="center">
+  <img src="Doanh thu theo ngày trong tuần" width="800" title="Doanh thu theo ngày">
+</p>
+
+### 2. Tối ưu hóa vận hành theo giờ
+Biểu đồ số lượng đơn hàng theo giờ giúp đối tác điều phối nhân sự hợp lý, tránh tình trạng quá tải hoặc lãng phí nguồn lực:
+
+<p align="center">
+  <img src="Số đơn hàng theo giờ trong ngày" width="800" title="Số đơn hàng theo giờ">
+</p>
+
+### 3. Cơ cấu sản phẩm
+Phân tích tỷ trọng giúp xác định nhóm sản phẩm mang lại giá trị cốt lõi:
+
+<p align="center">
+  <img src="Tỷ trọng doanh thu" width="600" title="Tỷ trọng doanh thu">
+</p>
 *Dự án được thực hiện nhằm minh chứng cho khả năng kết hợp giữa tư duy kinh tế học và kỹ năng phân tích dữ liệu hiện đại.*
